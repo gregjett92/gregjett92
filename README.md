@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gregjett92" alt="gregjett92" /></a> </p>
 
-- 🔭 I’m currently working on [Salesforce Admin Certication](https://trailblazer.me/id?lang=en_US)
+- 🔭 I’m currently working on [Salesforce Admin Certication](https://trailblazer.me/id/gregjett92https://trailblazer.me/id/gregjett92)
 
 - 🌱 I’m currently learning **Salesforce administration (soon platform developer)**
 
